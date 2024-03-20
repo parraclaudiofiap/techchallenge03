@@ -1,0 +1,12 @@
+[submodule "tf_auth_aws"]
+	path = tf_auth_aws
+	url = https://github.com/parraclaudiofiap/tf_auth_aws
+[submodule "app_techchallenge"]
+	path = app_techchallenge
+	url = https://github.com/parraclaudiofiap/app_techchallenge
+[submodule "tf_kubernets_aws"]
+	path = tf_kubernets_aws
+	url = https://github.com/parraclaudiofiap/tf_kubernets_aws
+[submodule "tf_mongo_atlas"]
+	path = tf_mongo_atlas
+	url = https://github.com/parraclaudiofiap/tf_mongo_atlas
